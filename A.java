@@ -12,6 +12,8 @@ public class A{
     
       a.m1(); 
 
+        System.out.println("siddhesh");
+
 }
 
 }
